@@ -209,14 +209,11 @@ visit our <a href="https://carpentries.github.io/lesson-development-training/mar
 
 <h3>Attendance and Cancellation</h3>
 Trainees who miss more than 1 hour of the training may be marked absent.
-Lesson Developer certification cannot be completed without full attendance at
-an Instructor Training event. If you unexpectedly need to miss more than
-1 hour of your event, please contact your Trainers (contact info below).
+Lesson Developer certification cannot be completed without full attendance at a Collaborative Lesson Development Training event. 
+If you unexpectedly need to miss more than 1 hour of your event, please contact your Trainers (contact info below).
 
-For events in which registration occurs through The Carpentries via Eventbrite,
-cancellation may be performed in Eventbrite up to the start of the event.
-Cancelled seats cannot be filled after the 1 week registration deadline for these events,
-so we ask that you only cancel if absolutely necessary.
+For events in which registration occurs through The Carpentries via Eventbrite, cancellation may be performed in Eventbrite up to the start of the event.
+Cancelled seats cannot be filled after the 1 week registration deadline for these events, so we ask that you only cancel if absolutely necessary.
 
 <h3 id="contact">Contact</h3>
 <p>
